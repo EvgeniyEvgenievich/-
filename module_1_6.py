@@ -8,5 +8,6 @@ print(my_dict)
 my_set = {'Andrey', 2025, False, 2022, False, 2022, 2025, 'Andrey',}
 print(my_set)
 my_set.add('Lev')
+my_set.add(True)
 my_set.remove(False)
 print(my_set)
